@@ -1,2 +1,1 @@
-# This is the heading of the third README file.
-
+## This is the heading of the third README file.
